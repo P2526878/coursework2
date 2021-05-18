@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+ p {
+   color: white;
+ }
+ body {
+   font-family: "Times New Roman", Times, serif;
+ }
+ h1 {
+   color: white;
+ }
+ h2 {
+   color: white;
+ }
+ > this_style_sheet_is_used_for_the_menu
+ > it_is_used_to_create_the_menus_contrasting_background_and_general_theme_to_the_other_pages
